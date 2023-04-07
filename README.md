@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/cevahir72">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cevahir72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cevahir72&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/oguzhanulun">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzhanulun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzhanulun&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -38,4 +38,4 @@
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
 </p>
 
-![snake gif](https://github.com/cevahir72/cevahir72/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/oguzhanulun/oguzhanulun/blob/output/github-contribution-grid-snake.gif)
