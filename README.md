@@ -18,6 +18,11 @@
  </p>
  <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,js,html,css,py" />
+  </a>
+ </p>
+ <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
   </a>
  </p>
@@ -28,7 +33,7 @@
  </p>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,materialui,bootstrap" />
   </a>
  </p>
  <p align="center">
