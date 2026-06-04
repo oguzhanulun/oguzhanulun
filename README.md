@@ -8,11 +8,13 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/oğuzhan-ulun"><img src="https://img.shields.io/badge/Oğuzhan%20ULUN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ulunoguzhan@gmail.com.tr"><img src="https://img.shields.io/badge/-ulunoguzhan@gmail.com.tr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oğuzhan-ulun"><img src="https://img.shields.io/badge/Oğuzhan%20ULUN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ulunoguzhan@gmail.com.tr"><img src="https://img.shields.io/badge/-ulunoguzhan@gmail.com.tr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oguzhanulun&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanulun" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=oguzhanulun&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanulun" /> 
+</p>
 
 ## 🚀 Skills
  </p>
