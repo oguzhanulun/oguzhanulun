@@ -28,7 +28,7 @@
  </p>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,sequelize" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,sequelize,prisma" />
   </a>
  </p>
  <p align="center">
